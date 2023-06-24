@@ -1,4 +1,4 @@
-# Manual Installation Steps 
+## Manual Installation Steps 
 ### Install JAVA
 ```
 sudo add-apt-repository ppa:openjdk-r/ppa
